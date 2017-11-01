@@ -1,0 +1,20 @@
+{
+  "name": "buildingwebappswithnode",
+  "description": "Files that will cover the Plural sight course",
+  "main": "app.js",
+  "authors": [
+    "Marco De Jesus"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/MarcoDeJesus/BuildingWebAppsWithNode",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
